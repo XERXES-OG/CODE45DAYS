@@ -9,8 +9,8 @@ Here in the name of files D represent the 'DAY' whereas R represents the 'ROW' o
 For Eg D1R7 is Day 1 and Question in the 7th Row of Excel sheet. 
 
 DAY 1 STATS:
-P1: https://leetcode.com/problems/set-matrix-zeroes/
-P2: https://leetcode.com/problems/move-zeroes/
-P3: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-P4: https://www.geeksforgeeks.org/chocolate-distribution-problem/
-P5: https://leetcode.com/problems/find-the-duplicate-number/
+P1: https://leetcode.com/problems/set-matrix-zeroes/ <br>
+P2: https://leetcode.com/problems/move-zeroes/ <br>
+P3: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
+P4: https://www.geeksforgeeks.org/chocolate-distribution-problem/ <br>
+P5: https://leetcode.com/problems/find-the-duplicate-number/ <br>
