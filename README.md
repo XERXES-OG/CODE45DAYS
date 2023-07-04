@@ -6,9 +6,10 @@ https://docs.google.com/spreadsheets/d/1KD9G8_Q5w77USr0fbTNvQkk9U99u28PzFGMUak-4
 
 Here in the name of files D represent the 'DAY' whereas R represents the 'ROW' of the excel sheet.
 
-For Eg D1R7 is Day 1 and Question in the 7th Row of Excel sheet. 
+For Eg D1R7 is Day 1 and Question in the 7th Row of Excel sheet. <br>
+<hr>
 
-DAY 1 STATS:
+DAY 1 STATS: <br>
 P1: https://leetcode.com/problems/set-matrix-zeroes/ <br>
 P2: https://leetcode.com/problems/move-zeroes/ <br>
 P3: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br>
