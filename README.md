@@ -27,4 +27,6 @@ DAY 3 STATS: <br>
 P1:https://leetcode.com/problems/subarray-sum-equals-k/ <br>
 P2:https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/ <br>
 P3:https://leetcode.com/problems/container-with-most-water/description/ <br>
-
+P4:https://leetcode.com/problems/3sum/description/ <br>
+P5:https://leetcode.com/problems/4sum/description/  <br>
+<hr>
