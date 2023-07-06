@@ -22,4 +22,7 @@ P2:https://leetcode.com/problems/two-sum/ <br>
 P3:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ <br>
 P4:https://leetcode.com/problems/subarray-sums-divisible-by-k/ <br>
 P5:https://leetcode.com/problems/find-all-duplicates-in-an-array/ <br>
-<hr>
+<hr><br>
+DAY 3 STATS: <br>
+P1:https://leetcode.com/problems/subarray-sum-equals-k/ <br>
+
