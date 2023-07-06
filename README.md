@@ -25,4 +25,6 @@ P5:https://leetcode.com/problems/find-all-duplicates-in-an-array/ <br>
 <hr><br>
 DAY 3 STATS: <br>
 P1:https://leetcode.com/problems/subarray-sum-equals-k/ <br>
+P2:https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/ <br>
+
 
