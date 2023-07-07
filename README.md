@@ -32,3 +32,4 @@ P5:https://leetcode.com/problems/4sum/description/  <br>
 <hr><br>
 DAY 4 STATS: <br>
 P1:https://leetcode.com/problems/spiral-matrix/description/ <br>
+P2:https://leetcode.com/problems/merge-sorted-array/ <br>
