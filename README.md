@@ -34,3 +34,6 @@ DAY 4 STATS: <br>
 P1:https://leetcode.com/problems/spiral-matrix/description/ <br>
 P2:https://leetcode.com/problems/merge-sorted-array/ <br>
 P3:https://leetcode.com/problems/majority-element/description/ <br>
+P4:https://leetcode.com/problems/jump-game/description/ <br>
+P5:https://leetcode.com/problems/word-search/ <br>
+<hr>
