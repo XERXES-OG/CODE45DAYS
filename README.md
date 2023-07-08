@@ -36,4 +36,6 @@ P2:https://leetcode.com/problems/merge-sorted-array/ <br>
 P3:https://leetcode.com/problems/majority-element/description/ <br>
 P4:https://leetcode.com/problems/jump-game/description/ <br>
 P5:https://leetcode.com/problems/word-search/ <br>
-<hr>
+<hr><br>
+DAY 5 STATS: <br>
+P1:https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ <br>
