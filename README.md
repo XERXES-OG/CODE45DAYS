@@ -39,3 +39,4 @@ P5:https://leetcode.com/problems/word-search/ <br>
 <hr><br>
 DAY 5 STATS: <br>
 P1:https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ <br>
+P2:https://leetcode.com/problems/valid-parentheses/description/ <br>
