@@ -41,3 +41,6 @@ DAY 5 STATS: <br>
 P1:https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ <br>
 P2:https://leetcode.com/problems/valid-parentheses/description/ <br>
 P3:https://leetcode.com/problems/game-of-life/description/ <br>
+P4:https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ <br>
+P5:https://leetcode.com/problems/longest-common-prefix/description/ <br>
+<hr>
