@@ -43,4 +43,12 @@ P2:https://leetcode.com/problems/valid-parentheses/description/ <br>
 P3:https://leetcode.com/problems/game-of-life/description/ <br>
 P4:https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ <br>
 P5:https://leetcode.com/problems/longest-common-prefix/description/ <br>
+<hr><br>
+DAY 6 STATS: <br>
+P1:https://leetcode.com/problems/add-binary/description/ <br>
+P2:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/ <br>
+P3:https://leetcode.com/problems/rotate-image/ <br>
+P4:https://leetcode.com/problems/integer-to-roman/ <br>
+P5:https://leetcode.com/problems/valid-palindrome-ii/ <br>
 <hr>
+
