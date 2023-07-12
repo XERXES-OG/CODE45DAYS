@@ -51,4 +51,19 @@ P3:https://leetcode.com/problems/rotate-image/ <br>
 P4:https://leetcode.com/problems/integer-to-roman/ <br>
 P5:https://leetcode.com/problems/valid-palindrome-ii/ <br>
 <hr>
+DAY 7 STATS: <br>
+P1:https://leetcode.com/problems/reverse-pairs/ <br>
+P2:https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/ <br>
+P3:https://leetcode.com/problems/generate-parentheses/ <br>
+P4:https://leetcode.com/problems/maximum-product-of-three-numbers/ <br>
+P5:https://leetcode.com/problems/power-of-two/ <br>
+<hr><br>
+DAY 8 STATS:<br>
+P1:https://leetcode.com/problems/excel-sheet-column-title/ <br>
+P2:https://leetcode.com/problems/happy-number/ <br>
+P3:https://leetcode.com/problems/palindrome-number/ <br>
+P4:https://leetcode.com/problems/missing-number/ <br>
+P5:https://leetcode.com/problems/reverse-integer/ <br>
+<hr>
+
 
