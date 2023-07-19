@@ -64,6 +64,13 @@ P2:https://leetcode.com/problems/happy-number/ <br>
 P3:https://leetcode.com/problems/palindrome-number/ <br>
 P4:https://leetcode.com/problems/missing-number/ <br>
 P5:https://leetcode.com/problems/reverse-integer/ <br>
+<hr><br>
+DAY 9 STATS:<br>
+P1:https://leetcode.com/problems/simplify-path/ <br>
+P2:https://leetcode.com/problems/reverse-words-in-a-string/ <br>
+P3:https://leetcode.com/problems/group-anagrams/ <br>
+P4:https://leetcode.com/problems/middle-of-the-linked-list/ <br>
+P5:https://leetcode.com/problems/linked-list-cycle/ <br>
 <hr>
 
 
