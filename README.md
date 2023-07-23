@@ -71,6 +71,13 @@ P2:https://leetcode.com/problems/reverse-words-in-a-string/ <br>
 P3:https://leetcode.com/problems/group-anagrams/ <br>
 P4:https://leetcode.com/problems/middle-of-the-linked-list/ <br>
 P5:https://leetcode.com/problems/linked-list-cycle/ <br>
+<hr><br>
+DAY 10 STATS:<br>
+P1:https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ <br>
+P2:https://leetcode.com/problems/remove-duplicates-from-sorted-list/ <br>
+P3:https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/ <br>
+P4:https://leetcode.com/problems/reverse-linked-list/ <br>
+P5:https://leetcode.com/problems/merge-two-sorted-lists/ <br>
 <hr>
 
 
