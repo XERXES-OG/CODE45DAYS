@@ -78,6 +78,13 @@ P2:https://leetcode.com/problems/remove-duplicates-from-sorted-list/ <br>
 P3:https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/ <br>
 P4:https://leetcode.com/problems/reverse-linked-list/ <br>
 P5:https://leetcode.com/problems/merge-two-sorted-lists/ <br>
+<hr><br>
+DAY 11 STATS:<br>
+P1:https://leetcode.com/problems/implement-queue-using-stacks/ <br>
+P2:https://leetcode.com/problems/implement-stack-using-queues/ <br>
+P3:https://www.geeksforgeeks.org/implement-stack-queue-using-deque/ <br>
+P4:https://leetcode.com/problems/next-greater-element-i/ <br>
+P5:https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/ <br>
 <hr>
 
 
